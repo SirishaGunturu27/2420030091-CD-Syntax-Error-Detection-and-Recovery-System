@@ -577,8 +577,8 @@ frontend/index.html
 | Team Member     | Primary Work                 | Supporting Work    |
 | --------------- | ---------------------------- | ------------------ |
 | **G. Sirisha**  | Lexical Analyzer and Parser  | Parser Integration |
-| **Y. Yamini**   | Error Detection and Recovery | Testing            |
-| **A. Srinivas** | Frontend Development         | System Integration |
+| **K. Mounika**  | Error Detection and Recover | Testing            |
+| **K. Siri**     | Frontend Development        | System Integration |
 
 ---
 
@@ -675,5 +675,6 @@ The **Syntax Error Detection and Recovery System** is designed to provide a prac
 | S.No. | Name        |  ID Number |
 | ----: | ----------- | ---------: |
 |     1 | G. Sirisha  | 2420030091 |
-|     2 | Y. Yamini   | 2420030264 |
-|     3 | A. Srinivas | 2420030136 |
+|     2 | K.Mounika   | 2420030102 |
+|     3 | P.Manogna   | 2420030104 |
+|     4 | K.Siri      | 2420030213 |
